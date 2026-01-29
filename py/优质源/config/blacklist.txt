@@ -93,3 +93,7 @@ m3u8.channel.dzsm.com
 file.ysxtv.cn
 other.ottiptv.cc
 gmxw.7766.org
+218.13.170.98
+1.24.39.180
+113.218.204.144
+223.105.252.8
