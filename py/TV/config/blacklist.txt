@@ -273,3 +273,6 @@ pull-f3.douyincdn.com:80
 gdcucc.v1.mk:443
 49.234.31.101:7033
 182.114.48.108:9901
+satellitepull.cnr.cn:443
+www.ahtv.cn:443
+stream.hrbtv.net:80
