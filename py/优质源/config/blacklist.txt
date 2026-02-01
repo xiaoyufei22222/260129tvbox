@@ -49,3 +49,8 @@ mgtv.ottiptv.cc
 m3u8.channel.dzsm.com
 112.46.105.20
 t.freetv.fun
+nn.7x9d.cn
+pull-hs-f5.flive.douyincdn.com
+183.11.239.36
+traffic.jbh.tjbh.com
+stream.hrbtv.net
