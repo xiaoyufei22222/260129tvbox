@@ -276,3 +276,16 @@ gdcucc.v1.mk:443
 satellitepull.cnr.cn:443
 www.ahtv.cn:443
 stream.hrbtv.net:80
+grandprix2023.asuscomm.com:8892
+120.238.94.82:9901
+182.114.48.33:9901
+ali-m-l.cztv.com:80
+play.kankanlive.com:80
+vip.ffzy-play1.com:443
+112.234.23.204:9901
+175.155.106.72:89
+123.160.235.132:9901
+221.13.235.145:9901
+nn.7x9d.cn:80
+test1.live.sdetv.com.cn:443
+111.61.236.247:9081
