@@ -295,3 +295,7 @@ play-radio-stream3.hndt.com:80
 tvpull.hmgbtv.com:443
 182.114.48.245:9901
 file.ysxtv.cn:443
+huaiyin-tv-replay.cm.jstv.com:443
+zbbf2.ahbztv.com:80
+hlscdn.liangtv.cn:443
+hlscdn.liangtv.cn:80
