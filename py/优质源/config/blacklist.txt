@@ -74,3 +74,6 @@ webcast.hkstv.tv
 111.61.236.247
 112.27.235.94
 hzzzz530.com
+120.238.94.82
+play-radio-stream3.hndt.com
+tvcdn.stream3.hndt.com
