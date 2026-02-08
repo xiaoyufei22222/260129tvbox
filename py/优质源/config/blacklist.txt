@@ -55,3 +55,7 @@ pull-hsbj.vzan.com
 hls.iill.top
 111.221.137.155
 t.freetv.fun
+pull-flv-f1.douyincdn.com
+101.66.198.203
+m3u8.channel.dzsm.com
+gmxw.7766.org
