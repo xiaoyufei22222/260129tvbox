@@ -59,3 +59,10 @@ pull-flv-f1.douyincdn.com
 101.66.198.203
 m3u8.channel.dzsm.com
 gmxw.7766.org
+183.237.95.108
+110.19.181.138
+tvdrs.wsrtv.com.cn
+120.238.94.82
+112.132.10.54
+113.25.252.226
+video.epaper.pybtv.cn
