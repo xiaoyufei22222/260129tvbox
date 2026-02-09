@@ -66,3 +66,12 @@ tvdrs.wsrtv.com.cn
 112.132.10.54
 113.25.252.226
 video.epaper.pybtv.cn
+traffic.jbh.tjbh.com
+live.metshop.top
+222.134.245.16
+epg.pw
+live.xysrmt.cn
+tmpstream.hyrtv.cn
+123.129.70.178
+cdn2.132.us.kg
+hls.168.us.kg
