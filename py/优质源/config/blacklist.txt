@@ -75,3 +75,5 @@ tmpstream.hyrtv.cn
 123.129.70.178
 cdn2.132.us.kg
 hls.168.us.kg
+182.150.115.21
+file.ysxtv.cn
