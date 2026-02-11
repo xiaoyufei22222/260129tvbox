@@ -79,3 +79,9 @@ hls.168.us.kg
 file.ysxtv.cn
 221.13.235.34
 218.13.170.98
+111.221.137.234
+23.237.228.134
+shuyang-tv-hls.cm.jstv.com
+nklive.nbs.cn
+153.0.171.163
+vd3.bdstatic.com
