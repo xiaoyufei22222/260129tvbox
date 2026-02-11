@@ -85,3 +85,6 @@ shuyang-tv-hls.cm.jstv.com
 nklive.nbs.cn
 153.0.171.163
 vd3.bdstatic.com
+rmplive.hljtv.com
+pull-hls-f11.douyincdn.com
+masterpull.hljtv.com
