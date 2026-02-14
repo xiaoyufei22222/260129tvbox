@@ -49,3 +49,6 @@ live.dxhmt.cn
 111.221.137.155
 111.221.137.234
 119.39.9.8
+182.150.23.74
+video.bread-tv.com
+test1.live.sdetv.com.cn
