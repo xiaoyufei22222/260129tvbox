@@ -52,3 +52,7 @@ live.dxhmt.cn
 182.150.23.74
 video.bread-tv.com
 test1.live.sdetv.com.cn
+m3u8.channel.wsrtv.com.cn
+111.61.236.247
+iptv77.iptv66.eu.org
+www.wxhcgbds.com
