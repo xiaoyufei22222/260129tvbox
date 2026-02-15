@@ -1,6 +1,6 @@
 影视轮播频道,#genre#
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
+江苏影视,https://mgtv.ottiptv.cc/mg/626064697.m3u8?userid=5559462299&sign=28f42b2eaf4c2dc428c8782206d66388da2dbd064abdbd475253e6dc2d517276b00f07a352975a3c8e1bbc9d2edb9afbf6cacb10c838b0e5f3e2947bca53209b5e0b5804d45eedd5dcffb9d1ca4b59bdbe&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-江苏影视,https://mgtv.ottiptv.cc/mg/626064697.m3u8?userid=5559462299&sign=790994f0dda41a7b33d16cb7091cd3f3a1e2c9ad0812a88a95fc34fa1a84d833fe6b41a9b576a9c81d7345d3d72a0d2952b93419841706f9a542df99274b4a7873c04ace16deabea84cc1fd71e12c5bcab&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
