@@ -375,3 +375,8 @@ stream.jmtv.com.cn:443
 video.epaper.pybtv.cn:8080
 101.66.194.32:9901
 goodiptv.club:443
+pull-vivek.speedws.com:80
+148.113.160.49:14187
+125.42.148.185:9901
+101.200.122.188:1234
+218.84.127.245:1026
