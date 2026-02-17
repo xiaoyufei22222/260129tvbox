@@ -71,3 +71,8 @@ live.ynurl.com
 tpc.x3322.net
 pull-flv-f1.douyincdn.com
 pull-hls-f1.douyincdn.com
+epg.pw
+yylunbo.ottiptv.cc
+pull-hsbj.vzan.com
+ls.qingting.fm
+traffic.jbh.tjbh.com
