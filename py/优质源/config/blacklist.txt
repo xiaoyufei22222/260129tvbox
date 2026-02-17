@@ -68,3 +68,6 @@ mgsp-tx2.live.miguvideo.com
 live.ynurl.com
 125.42.150.159
 111.197.80.116
+tpc.x3322.net
+pull-flv-f1.douyincdn.com
+pull-hls-f1.douyincdn.com
