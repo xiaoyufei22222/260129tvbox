@@ -383,3 +383,5 @@ pull-vivek.speedws.com:80
 112.234.21.166:9901
 live.zzyxxw.com:2443
 125.42.150.159:9901
+pull-hls-f11.douyincdn.com:80
+182.114.49.130:9901
