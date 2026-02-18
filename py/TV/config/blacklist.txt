@@ -389,3 +389,4 @@ pull-hls-f11.douyincdn.com:80
 hls.168.us.kg:80
 live.xysrmt.cn:80
 115.48.160.128:9901
+36.40.237.233:9999
