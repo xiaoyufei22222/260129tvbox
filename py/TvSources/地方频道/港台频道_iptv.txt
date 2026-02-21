@@ -1,7 +1,8 @@
 港台频道,#genre#
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8
+天映经典,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGm2__qUOGzGCukQtY2ilR797mPHZ6g-lFKX1cV3sAx0FgHx9wBss75ZT3wNOXjvCiYPH52ADPm8Rw5jf70BxNxDab_QGuIB_j-MaHjF3cT68cpuQTcw3r3GJCrlglwUiwADTHKgffYzZgyuD_jAjXJKkqf4iPbRnMNwplTJ2ThhvcIuKkZK0T5ZV-HR8gNqGPKDppMpK6gitsfzcocB7zLQ.m3u8?u=1757123819
 凤凰香港,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
