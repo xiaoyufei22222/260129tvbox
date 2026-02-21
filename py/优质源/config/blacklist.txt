@@ -50,3 +50,4 @@ pull-vivek.speedws.com
 120.238.94.82
 111.221.137.234
 218.17.33.178
+live.ynurl.com
