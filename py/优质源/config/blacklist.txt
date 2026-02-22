@@ -51,3 +51,6 @@ pull-vivek.speedws.com
 111.221.137.234
 218.17.33.178
 live.ynurl.com
+119.32.12.17
+223.145.224.76
+iot-mqqt.111yao.cn
