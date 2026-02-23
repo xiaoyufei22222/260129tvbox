@@ -64,3 +64,7 @@ lianshui-tv-hls.cm.jstv.com
 www.wxhcgbds.com
 183.223.157.33
 222.214.208.34
+antvlive.ab5c6921.cdnviet.com
+m3u8.channel.dzsm.com
+182.150.23.74
+218.13.170.98
