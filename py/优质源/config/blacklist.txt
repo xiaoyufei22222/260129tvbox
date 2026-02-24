@@ -68,3 +68,6 @@ antvlive.ab5c6921.cdnviet.com
 m3u8.channel.dzsm.com
 182.150.23.74
 218.13.170.98
+ls.qingting.fm
+flvhspull2mgsplive.miguvideo.com
+36.32.174.67
