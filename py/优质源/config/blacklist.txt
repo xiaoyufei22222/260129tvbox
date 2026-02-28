@@ -73,3 +73,6 @@ play.jinnantv.top
 tvpull.hmgbtv.com
 tvpull.smartwq.cn
 153.0.171.163
+flvhspull2mgsplive.miguvideo.com
+drive.mxmy.net
+iptv.4666888.xyz
