@@ -60,3 +60,16 @@ www.ahtv.cn
 webcast.hkstv.tv
 69.30.246.194
 flvyxpull2mgsplive.miguvideo.com
+123.129.70.178
+satellitepull.cnr.cn
+183.237.95.108
+zjtv-wshls.homecdn.com
+hlscdn.liangtv.cn
+m3u8.channel.dzsm.com
+zbbf2.ahbztv.com
+p2.vzan.com
+tv.gxtv.cn
+play.jinnantv.top
+tvpull.hmgbtv.com
+tvpull.smartwq.cn
+153.0.171.163
