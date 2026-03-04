@@ -42,3 +42,7 @@ l.cztvcloud.com
 gmxw.7766.org
 stream.jmtv.com.cn
 183.11.239.36
+live.gxrb.com.cn
+zjtv-wshls.homecdn.com
+223.105.252.8
+pull-vivek.speedws.com
