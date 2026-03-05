@@ -46,3 +46,5 @@ live.gxrb.com.cn
 zjtv-wshls.homecdn.com
 223.105.252.8
 pull-vivek.speedws.com
+183.237.95.108
+148.113.160.49
