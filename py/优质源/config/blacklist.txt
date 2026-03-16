@@ -50,3 +50,7 @@ m3u8.channel.dzsm.com
 112.123.243.37
 ls.qingting.fm
 live.dxhmt.cn
+jsmov2.a.yximgs.com
+59.175.226.142
+223.105.252.8
+5ddce30eb4b55.streamlock.net
