@@ -71,3 +71,6 @@ webcast.hkstv.tv
 39.152.103.17
 satellitepull.cnr.cn
 1.24.39.180
+srs.iyb983.cn
+112.46.85.60
+112.46.105.20
