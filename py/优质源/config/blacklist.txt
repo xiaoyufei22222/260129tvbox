@@ -52,3 +52,8 @@ live.xysrmt.cn
 119.32.12.17
 live.metshop.top
 newcntv.qcloudcdn.com
+hlsal-ldvt.qing.mgtv.com
+pull-hls-f1.douyincdn.com
+pull-hls-f11.douyincdn.com
+live.zzyxxw.com
+cssbyd.imwork.net
