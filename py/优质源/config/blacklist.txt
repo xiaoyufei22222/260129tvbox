@@ -57,3 +57,9 @@ pull-hls-f1.douyincdn.com
 pull-hls-f11.douyincdn.com
 live.zzyxxw.com
 cssbyd.imwork.net
+110.153.180.106
+153.0.171.163
+8.138.7.223
+183.223.157.33
+182.150.23.74
+183.237.95.108
