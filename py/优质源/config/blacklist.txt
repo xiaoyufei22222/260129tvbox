@@ -74,3 +74,4 @@ live.jinchuanrmt.com
 222.179.155.21
 101.66.198.12
 t.freetv.fun
+tvpull.smartwq.cn
