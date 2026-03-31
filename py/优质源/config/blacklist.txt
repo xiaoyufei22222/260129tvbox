@@ -73,3 +73,6 @@ gfr.x3322.net
 111.31.106.140
 183.237.95.108
 live.dxhmt.cn
+pull-hls-f11.douyincdn.com
+113.15.109.216
+1.24.39.180
