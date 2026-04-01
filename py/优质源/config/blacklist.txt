@@ -81,3 +81,6 @@ video.epaper.pybtv.cn
 183.223.157.33
 t.freetv.fun
 ali-m-l.cztv.com
+stream.hrbtv.net
+221.226.51.220
+222.214.208.34
