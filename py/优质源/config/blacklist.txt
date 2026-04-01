@@ -76,3 +76,8 @@ live.dxhmt.cn
 pull-hls-f11.douyincdn.com
 113.15.109.216
 1.24.39.180
+112.123.243.37
+video.epaper.pybtv.cn
+183.223.157.33
+t.freetv.fun
+ali-m-l.cztv.com
