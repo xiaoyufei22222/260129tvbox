@@ -89,3 +89,7 @@ hkstv.tv
 hlsal-ldvt.qing.mgtv.com
 123.129.70.178
 genglei.8866.org
+live.zohi.tv
+live1.gatv.com.cn
+traffic.jbh.tjbh.com
+zjtv-wshls.homecdn.com
