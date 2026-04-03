@@ -453,3 +453,8 @@ stream.hrbtv.net:443
 121.19.134.204:808
 125.42.148.233:9901
 gxlive.snrtv.com:80
+iot-mqqt.111yao.cn:8080
+drive.mxmy.net:8888
+219.150.217.47:6610
+148.113.160.49:14176
+v3.mediacast.hk:443
