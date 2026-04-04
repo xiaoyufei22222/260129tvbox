@@ -53,3 +53,6 @@ dms.yryyj.site
 m3u8.channel.dzsm.com
 119.32.12.17
 l.cztvcloud.com
+stream.hrbtv.net
+101.66.198.193
+webcast.hkstv.tv
