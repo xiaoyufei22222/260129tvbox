@@ -460,3 +460,4 @@ drive.mxmy.net:8888
 v3.mediacast.hk:443
 101.66.198.193:9901
 php.jdshipin.com:2096
+hls.gstv.com.cn:443
