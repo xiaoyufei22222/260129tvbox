@@ -71,3 +71,6 @@ m3u8channel.ganzitv.com
 mgtv.ottiptv.cc
 112.123.243.37
 0472.org
+58.57.40.22
+36.32.174.67
+124.165.251.82
