@@ -58,3 +58,4 @@ live.qthnews.org.cn
 tvpull.smartwq.cn
 111.221.137.234
 live.metshop.top
+tvcdn.stream3.hndt.com
