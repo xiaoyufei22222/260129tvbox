@@ -64,3 +64,6 @@ stream.hrbtv.net
 tpc.x3322.net
 61.163.181.78
 video.bread-tv.com
+nn.7x9d.cn
+182.150.23.74
+183.237.95.108
