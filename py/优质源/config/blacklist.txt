@@ -54,3 +54,6 @@ live.metshop.top
 218.17.33.178
 yylunbo.ottiptv.cc
 183.237.95.108
+pull-hls-f11.douyincdn.com
+182.150.23.74
+183.11.239.36
