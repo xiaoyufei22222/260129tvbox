@@ -462,3 +462,5 @@ v3.mediacast.hk:443
 php.jdshipin.com:2096
 hls.gstv.com.cn:443
 m3u8channel.ganzitv.com:443
+154.37.212.176:80
+125.43.241.91:9901
