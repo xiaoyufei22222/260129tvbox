@@ -73,3 +73,6 @@ live.sfrmt.com
 171.116.254.184
 tvpull.smartwq.cn
 218.104.239.114
+hkstv.tv
+webcast.hkstv.tv
+69.30.246.194
