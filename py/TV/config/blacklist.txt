@@ -468,3 +468,5 @@ m3u8channel.ganzitv.com:443
 182.114.49.159:9901
 file.loulannews.cn:80
 125.43.244.73:9901
+43.156.8.127:5050
+stream.freetv.fun:443
