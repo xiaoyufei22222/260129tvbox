@@ -35,3 +35,4 @@ gxlive.snrtv.com
 3gvod.zjgonline.com.cn
 pull-hls-f11.douyincdn.com
 live.dxhmt.cn
+5ddce30eb4b55.streamlock.net
