@@ -62,3 +62,6 @@ live.metshop.top
 223.105.252.8
 stream.jmtv.com.cn
 tvpull.smartwq.cn
+222.179.42.129
+gmxw.7766.org
+125.43.249.77
