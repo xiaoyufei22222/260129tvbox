@@ -65,3 +65,5 @@ tvpull.smartwq.cn
 222.179.42.129
 gmxw.7766.org
 125.43.249.77
+112.123.243.37
+fei01.kmdns.net
