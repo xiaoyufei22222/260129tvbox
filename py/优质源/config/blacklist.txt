@@ -36,3 +36,6 @@ idclive.hljtv.com
 liveout.gstv.com.cn
 rmplive.hljtv.com
 3gvod.zjgonline.com.cn
+222.179.42.129
+43.156.8.127
+live.gxrb.com.cn
