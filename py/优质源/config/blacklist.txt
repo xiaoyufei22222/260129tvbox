@@ -64,3 +64,5 @@ lianshui-tv-hls.cm.jstv.com
 live1.gatv.com.cn
 221.7.175.154
 59.175.226.142
+74.91.26.218
+shuyang-tv-hls.cm.jstv.com
