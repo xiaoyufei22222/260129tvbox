@@ -71,3 +71,5 @@ test1.live.sdetv.com.cn
 l.cztvcloud.com
 101.66.198.51
 genglei.8866.org
+5ddce30eb4b55.streamlock.net
+pull-hls-f11.douyincdn.com
