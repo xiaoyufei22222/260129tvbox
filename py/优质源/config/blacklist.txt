@@ -66,3 +66,8 @@ live1.gatv.com.cn
 59.175.226.142
 74.91.26.218
 shuyang-tv-hls.cm.jstv.com
+hkstv.tv
+test1.live.sdetv.com.cn
+l.cztvcloud.com
+101.66.198.51
+genglei.8866.org
