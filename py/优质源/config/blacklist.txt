@@ -77,3 +77,5 @@ pull-hls-f11.douyincdn.com
 play.yunxya.com
 gd202.tv1288.xyz
 120.10.167.40
+218.13.170.98
+epg.pw
