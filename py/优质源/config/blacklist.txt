@@ -34,3 +34,12 @@ live.sfrmt.com
 l.cztvcloud.com
 5ddce30eb4b55.streamlock.net
 tencentplay.gztv.com
+lb.streaming.sk
+218.104.239.114
+p2.bdstatic.com
+stream.hrbtv.net
+183.129.255.66
+stream.thmz.com
+hkstv.tv
+153.0.171.163
+112.123.243.37
