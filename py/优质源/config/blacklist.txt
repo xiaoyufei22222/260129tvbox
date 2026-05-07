@@ -56,3 +56,6 @@ pili-live-hls-sjxgz2024.sobeylive.com
 119.29.13.205
 shuyang-tv-hls.cm.jstv.com
 219.155.100.251
+stream.freetv.fun
+38.75.136.137
+t.freetv.fun
