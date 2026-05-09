@@ -39,3 +39,9 @@ live.ynurl.com
 pull-hls-f11.douyincdn.com
 live.yantaitv.cn
 tvfile.jjrm.org.cn
+r.jdshipin.com
+124.116.183.146
+125.42.150.148
+221.13.235.203
+101.66.198.87
+101.66.198.136
