@@ -80,3 +80,8 @@ gcalic.v.myalicdn.com
 182.150.23.74
 119.39.9.8
 m3u8channel-yj.yunxya.com
+47.108.228.131
+101.66.198.224
+tvpull.smartwq.cn
+101.66.198.233
+101.66.198.102
