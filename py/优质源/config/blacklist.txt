@@ -91,3 +91,7 @@ tvpull.smartwq.cn
 59.62.1.50
 piccpndali.v.myalicdn.com
 iptv.kakacq.com
+haimen-tv-hls.cm.jstv.com
+play-a2.quklive.com
+183.237.95.108
+dafeng-tv-hls.cm.jstv.com
