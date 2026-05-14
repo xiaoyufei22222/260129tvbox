@@ -97,3 +97,6 @@ play-a2.quklive.com
 dafeng-tv-hls.cm.jstv.com
 218.104.239.114
 113.141.220.55
+183.223.157.33
+vip1.xinketongxun.fun
+shuyang-tv-hls.cm.jstv.com
