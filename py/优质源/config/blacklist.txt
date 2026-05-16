@@ -43,3 +43,5 @@ l.cztvcloud.com
 tpc.x3322.net
 218.13.170.98
 huaiyin-tv-replay.cm.jstv.com
+183.11.239.36
+124.116.183.146
