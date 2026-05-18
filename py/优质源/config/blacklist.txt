@@ -52,3 +52,6 @@ ali-m-l.cztv.com
 satellitepull.cnr.cn
 104.250.145.76
 125.42.150.192
+shcm-stream-cf1.stream.264788.xyz
+gmxw.7766.org
+222.179.42.129
