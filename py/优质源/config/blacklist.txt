@@ -65,3 +65,4 @@ ali-xwl.cztv.com
 110.154.192.40
 101.66.194.206
 182.150.23.74
+shuyang-tv-hls.cm.jstv.com
