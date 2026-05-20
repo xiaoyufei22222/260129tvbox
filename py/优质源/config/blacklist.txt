@@ -68,3 +68,5 @@ ali-xwl.cztv.com
 shuyang-tv-hls.cm.jstv.com
 stream1.freetv.fun
 epg.pw
+hkstv.tv
+tvpull.smartwq.cn
