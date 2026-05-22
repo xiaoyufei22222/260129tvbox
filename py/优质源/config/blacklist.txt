@@ -51,3 +51,12 @@ r.jdshipin.com
 shuyang-tv-hls.cm.jstv.com
 l.cztvcloud.com
 113.46.143.74
+120.211.62.180
+111.8.224.6
+pull-f3.douyincdn.com
+14.153.176.89
+101.66.198.83
+61.136.172.236
+207.56.13.146
+huaiyin-tv-replay.cm.jstv.com
+119.233.255.62
