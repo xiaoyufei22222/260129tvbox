@@ -60,3 +60,5 @@ pull-f3.douyincdn.com
 207.56.13.146
 huaiyin-tv-replay.cm.jstv.com
 119.233.255.62
+123.113.205.253
+113.25.252.226
