@@ -63,3 +63,7 @@ shuyang-tv-hls.cm.jstv.com
 huaiyin-tv-replay.cm.jstv.com
 113.141.220.55
 fuxin.yunjifei.top
+27.12.12.31
+www.negative.top
+219.145.93.74
+101.6.130.52
