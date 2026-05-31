@@ -59,3 +59,7 @@ ali-m-l.cztv.com
 shuyang-tv-hls.cm.jstv.com
 183.237.95.108
 120.211.62.180
+118.193.115.2
+huaiyin-tv-replay.cm.jstv.com
+113.141.220.55
+fuxin.yunjifei.top
