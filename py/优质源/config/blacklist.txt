@@ -77,3 +77,6 @@ m3u8channel.ganzitv.com
 gcalic.v.myalicdn.com
 live.daningtv.com
 111.221.137.234
+epg.pw
+218.206.193.218
+zmgd.zyrnet.com
