@@ -92,3 +92,4 @@ svip.high24-playback.com
 118.193.115.2
 120.202.94.181
 ali-m-l.cztv.com
+stream.hrbtv.net
