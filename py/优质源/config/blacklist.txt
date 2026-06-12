@@ -93,3 +93,5 @@ svip.high24-playback.com
 120.202.94.181
 ali-m-l.cztv.com
 stream.hrbtv.net
+112.123.243.37
+liveout.xntv.tv
