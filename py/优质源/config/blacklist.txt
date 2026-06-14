@@ -41,3 +41,4 @@ gxlive.snrtv.com
 stream.thmz.com
 1.197.250.50
 live.xysrmt.cn
+222.134.245.16
