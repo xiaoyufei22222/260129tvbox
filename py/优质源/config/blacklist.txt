@@ -55,3 +55,6 @@ tmpstream.hyrtv.cn
 goodiptv.club
 gslbmgspvod.miguvideo.com
 101.6.130.52
+bp-resource-dfl.bestv.cn
+live.metshop.top
+182.150.23.74
