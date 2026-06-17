@@ -67,3 +67,6 @@ mgsp-zy2.live.miguvideo.com
 live.shaoxing.com.cn
 stream.hrbtv.net
 120.202.94.181
+m3u8.channel.dzsm.com
+112.123.243.37
+video.epaper.pybtv.cn
