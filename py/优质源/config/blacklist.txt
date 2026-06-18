@@ -70,3 +70,7 @@ stream.hrbtv.net
 m3u8.channel.dzsm.com
 112.123.243.37
 video.epaper.pybtv.cn
+183.129.255.66
+live.264788.xyz
+dxtx.hntv.tv
+shcm-stream-cf1.stream.264788.xyz
