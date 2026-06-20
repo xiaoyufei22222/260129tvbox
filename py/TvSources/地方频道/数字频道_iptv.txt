@@ -1,3 +1,2 @@
 数字频道,#genre#
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-快乐垂钓,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260620040209&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20260620040209&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d5ae4a65c947cb2ef050aecf0033333e&sv=10004&ct=android
