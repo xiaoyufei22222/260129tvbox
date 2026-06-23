@@ -69,3 +69,6 @@ cm-wshls.homecdn.com
 live.wxinxi.com
 183.162.104.153
 lbyzztfe.live.sxmty.com
+101.66.198.87
+live.ahsz.tv
+198.204.228.26
