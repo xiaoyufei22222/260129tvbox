@@ -54,3 +54,5 @@ d1t.alwaysdata.net
 61.136.172.236
 live.xysrmt.cn
 stream.thmz.com
+207.56.13.146
+fuxin.yunjifei.top
