@@ -49,3 +49,8 @@ l.cztvcloud.com
 182.61.15.163
 223.247.25.230
 d1t.alwaysdata.net
+183.237.95.108
+183.129.255.66
+61.136.172.236
+live.xysrmt.cn
+stream.thmz.com
