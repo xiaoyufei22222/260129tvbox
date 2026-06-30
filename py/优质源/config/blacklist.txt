@@ -74,3 +74,6 @@ shcm-stream-cf1.stream.264788.xyz
 58.56.162.102
 satellitepull.cnr.cn
 182.150.23.74
+drive.mxmy.net
+111.8.224.6
+118.193.115.2
