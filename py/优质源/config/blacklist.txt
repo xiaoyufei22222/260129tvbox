@@ -75,3 +75,6 @@ flvalipull2mgsplive.miguvideo.com
 123.163.114.168
 gcalic.v.myalicdn.com
 p2.bdstatic.com
+101.66.195.209
+101.66.199.29
+58.56.162.102
