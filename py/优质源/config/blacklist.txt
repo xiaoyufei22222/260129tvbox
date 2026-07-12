@@ -83,3 +83,7 @@ stream.hrbtv.net
 112.46.105.20
 116.52.173.34
 live.264788.xyz
+bp-resource-dfl.bestv.cn
+115.48.161.108
+112.123.243.37
+tpc.x3322.net
