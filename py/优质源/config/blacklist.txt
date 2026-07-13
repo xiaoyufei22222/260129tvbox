@@ -87,3 +87,5 @@ bp-resource-dfl.bestv.cn
 115.48.161.108
 112.123.243.37
 tpc.x3322.net
+video.epaper.pybtv.cn
+m3u8.channel.dzsm.com
