@@ -35,3 +35,5 @@ rmplive.hljtv.com
 lxfile.lxxcb.cn
 play.kankanlive.com
 stream.thmz.com
+l.cztvcloud.com
+183.11.239.36
