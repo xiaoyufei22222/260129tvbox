@@ -37,3 +37,8 @@ play.kankanlive.com
 stream.thmz.com
 l.cztvcloud.com
 183.11.239.36
+183.223.157.33
+123.130.84.106
+m3u8.channel.dzsm.com
+60.10.139.113
+183.237.95.108
