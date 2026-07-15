@@ -42,3 +42,6 @@ l.cztvcloud.com
 m3u8.channel.dzsm.com
 60.10.139.113
 183.237.95.108
+118.193.115.2
+hslive.hsnewsnet.com
+183.129.255.66
