@@ -43,3 +43,8 @@ play.kankanlive.com
 223.247.25.221
 222.169.85.8
 101.66.194.177
+222.130.32.10
+epg.pw
+125.42.148.25
+jwcdnqx.hebyun.com.cn
+flvhspull2mgsplive.miguvideo.com
