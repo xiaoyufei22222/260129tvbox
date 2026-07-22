@@ -65,3 +65,4 @@ satellitepull.cnr.cn
 125.42.148.232
 live1.gatv.com.cn
 hslive.hsnewsnet.com
+lbyzztfe.live.sxmty.com
