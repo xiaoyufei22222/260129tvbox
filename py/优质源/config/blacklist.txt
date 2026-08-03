@@ -66,3 +66,10 @@ jsmov2.a.yximgs.com
 113.120.243.10
 101.66.194.210
 61.136.172.236
+cm-wshls.homecdn.com
+183.223.157.33
+115.48.160.81
+l.cztvcloud.com
+bp-resource-dfl.bestv.cn
+zjtv-wshls.homecdn.com
+123.163.114.121
