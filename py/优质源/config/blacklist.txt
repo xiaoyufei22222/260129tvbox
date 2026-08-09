@@ -63,3 +63,10 @@ zjtv-wshls.homecdn.com
 ali-m-l.cztv.com
 ali-vl.cztv.com
 221.13.235.58
+221.225.162.96
+bp-resource-dfl.bestv.cn
+stream.jmtv.com.cn
+182.123.208.111
+222.71.55.147
+139.227.21.22
+123.118.53.84
