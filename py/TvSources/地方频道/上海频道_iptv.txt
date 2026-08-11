@@ -1,5 +1,8 @@
 上海频道,#genre#
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+动漫秀场,http://58.46.201.70:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+哈哈炫动,http://116.228.170.214:9003/hls/48/index.m3u8
+动漫秀场,http://139.213.147.19:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
