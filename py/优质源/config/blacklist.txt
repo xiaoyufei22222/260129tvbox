@@ -61,3 +61,5 @@ play.yunxya.com
 d1t.alwaysdata.net
 120.238.84.45
 118.193.115.2
+139.214.181.174
+l.cztvcloud.com
