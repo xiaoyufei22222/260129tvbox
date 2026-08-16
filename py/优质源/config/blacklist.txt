@@ -71,3 +71,6 @@ stream.thmz.com
 183.142.200.28
 139.214.181.142
 58.56.162.102
+101.66.195.96
+hzcm-live.media.hugd.com
+zjtv-wshls.homecdn.com
