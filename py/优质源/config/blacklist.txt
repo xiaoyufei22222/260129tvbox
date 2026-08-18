@@ -75,3 +75,6 @@ stream.thmz.com
 hzcm-live.media.hugd.com
 zjtv-wshls.homecdn.com
 112.27.235.94
+epg.pw
+live.xysrmt.cn
+112.30.73.119
