@@ -39,3 +39,9 @@ l.cztvcloud.com
 42.231.221.33
 221.205.61.95
 123.5.136.111
+bp-resource-dfl.bestv.cn
+hzcm-live.media.hugd.com
+104.152.209.49
+218.13.138.139
+120.237.39.10
+l2fpdktp.live.sxmty.com
