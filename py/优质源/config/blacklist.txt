@@ -46,3 +46,4 @@ hzcm-live.media.hugd.com
 120.237.39.10
 l2fpdktp.live.sxmty.com
 epg.pw
+211.92.102.44
