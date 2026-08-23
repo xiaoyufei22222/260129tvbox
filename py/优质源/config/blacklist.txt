@@ -45,3 +45,4 @@ hzcm-live.media.hugd.com
 218.13.138.139
 120.237.39.10
 l2fpdktp.live.sxmty.com
+epg.pw
