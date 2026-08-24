@@ -50,3 +50,7 @@ epg.pw
 101.66.198.179
 shcm-stream-cf1.stream.264788.xyz
 cm-wshls.homecdn.com
+zjtv-wshls.homecdn.com
+101.66.198.245
+zjrtv.vip
+101.66.198.55
