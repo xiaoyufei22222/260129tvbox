@@ -47,3 +47,6 @@ hzcm-live.media.hugd.com
 l2fpdktp.live.sxmty.com
 epg.pw
 211.92.102.44
+101.66.198.179
+shcm-stream-cf1.stream.264788.xyz
+cm-wshls.homecdn.com
