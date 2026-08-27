@@ -37,3 +37,8 @@ tpc.x3322.net
 218.13.170.98
 zjtv-wshls.homecdn.com
 d1t.alwaysdata.net
+218.13.138.139
+lbyzztfe.live.sxmty.com
+125.42.150.128
+113.9.214.47
+112.123.243.37
