@@ -35,3 +35,5 @@ play.scrstv.com.cn
 live.xysrmt.cn
 tpc.x3322.net
 218.13.170.98
+zjtv-wshls.homecdn.com
+d1t.alwaysdata.net
