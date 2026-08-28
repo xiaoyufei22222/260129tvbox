@@ -43,3 +43,5 @@ lbyzztfe.live.sxmty.com
 113.9.214.47
 112.123.243.37
 stream11.jlntv.cn
+118.193.115.2
+bp-resource-dfl.bestv.cn
