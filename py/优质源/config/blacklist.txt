@@ -46,3 +46,7 @@ stream11.jlntv.cn
 118.193.115.2
 bp-resource-dfl.bestv.cn
 p2.bdstatic.com
+222.136.68.235
+222.179.42.129
+live.ahsz.tv
+61.178.227.57
