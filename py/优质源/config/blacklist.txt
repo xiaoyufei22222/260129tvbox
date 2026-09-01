@@ -15,3 +15,5 @@ live.yantaitv.cn
 iptv.4666888.xyz
 124.88.144.73
 live1.habctv.com
+222.169.85.8
+m3u8.channel.dzsm.com
