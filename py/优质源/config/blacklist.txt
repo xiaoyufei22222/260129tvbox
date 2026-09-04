@@ -44,3 +44,5 @@ live.chinacert.cftest5.cn
 goodiptv.club
 120.40.39.246
 lbyzztfe.live.sxmty.com
+31.43.191.125
+101.66.195.43
