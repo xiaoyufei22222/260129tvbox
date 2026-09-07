@@ -26,3 +26,10 @@ m3u8.channel.dzsm.com
 tvfile.jjrm.org.cn
 live1.habctv.com
 gcalic.v.myalicdn.com
+219.147.245.238
+ls.qingting.fm
+lbyzztfe.live.sxmty.com
+hzcm-live.media.hugd.com
+101.66.198.251
+122.224.58.42
+live.qthnews.org.cn
