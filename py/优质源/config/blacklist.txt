@@ -33,3 +33,6 @@ hzcm-live.media.hugd.com
 101.66.198.251
 122.224.58.42
 live.qthnews.org.cn
+31.43.191.125
+182.114.48.115
+jsmov2.a.yximgs.com
