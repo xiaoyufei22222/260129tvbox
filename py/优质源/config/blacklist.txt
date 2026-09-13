@@ -28,3 +28,4 @@ radio.pull.hebtv.com
 stream.sun0769.com
 218.84.12.186
 stream.jmtv.com.cn
+ali-m-l.cztv.com
