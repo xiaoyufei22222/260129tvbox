@@ -37,3 +37,6 @@ l2fpdktp.live.sxmty.com
 zjtv-wshls.homecdn.com
 play.scrstv.com.cn
 file.ysxtv.cn
+119.39.9.8
+ali-vl.cztv.com
+zbbf2.ahbztv.com
