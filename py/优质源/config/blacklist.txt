@@ -35,3 +35,5 @@ tpc.x3322.net
 l2fpdktp.live.sxmty.com
 101.66.198.81
 zjtv-wshls.homecdn.com
+play.scrstv.com.cn
+file.ysxtv.cn
