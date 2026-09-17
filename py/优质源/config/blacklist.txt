@@ -48,3 +48,5 @@ myip.pdtvhd.com
 222.179.42.129
 58.56.162.102
 182.140.125.47
+cm-wshls.homecdn.com
+epg.pw
