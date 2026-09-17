@@ -44,3 +44,7 @@ zbbf2.ahbztv.com
 video.epaper.pybtv.cn
 123.163.114.241
 111.59.139.82
+myip.pdtvhd.com
+222.179.42.129
+58.56.162.102
+182.140.125.47
