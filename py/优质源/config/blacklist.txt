@@ -33,3 +33,8 @@ m3u8.channel.dzsm.com
 epg.pw
 110.153.180.106
 223.78.65.165
+221.7.175.154
+hwapi.yntv.net
+l2fpdktp.live.sxmty.com
+hzcm-live.media.hugd.com
+zjtv-wshls.homecdn.com
