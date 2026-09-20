@@ -61,3 +61,6 @@ jwplay.hebyun.com.cn
 txmov2.a.kwimgs.com
 live.spccmc.com
 dxtx.hntv.tv
+cm-wshls.homecdn.com
+test1.live.sdetv.com.cn
+stream.hrbtv.net
