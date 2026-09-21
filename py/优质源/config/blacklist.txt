@@ -64,3 +64,5 @@ dxtx.hntv.tv
 cm-wshls.homecdn.com
 test1.live.sdetv.com.cn
 stream.hrbtv.net
+tvfile.jyrmt.cn
+liveout.btzx.com.cn
