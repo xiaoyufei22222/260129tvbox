@@ -66,3 +66,6 @@ test1.live.sdetv.com.cn
 stream.hrbtv.net
 tvfile.jyrmt.cn
 liveout.btzx.com.cn
+bp-resource-dfl.bestv.cn
+ali-m-l.cztv.com
+m3u8channel.ganzitv.com
