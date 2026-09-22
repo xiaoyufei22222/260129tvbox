@@ -69,3 +69,6 @@ liveout.btzx.com.cn
 bp-resource-dfl.bestv.cn
 ali-m-l.cztv.com
 m3u8channel.ganzitv.com
+d1t.alwaysdata.net
+l.cztvcloud.com
+153.0.171.163
