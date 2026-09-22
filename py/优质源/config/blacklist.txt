@@ -72,3 +72,5 @@ m3u8channel.ganzitv.com
 d1t.alwaysdata.net
 l.cztvcloud.com
 153.0.171.163
+live.chinacert.cftest5.cn
+1yp7hc5p.live.sxmty.com
