@@ -74,3 +74,8 @@ l.cztvcloud.com
 153.0.171.163
 live.chinacert.cftest5.cn
 1yp7hc5p.live.sxmty.com
+stream.jmtv.com.cn
+ls.qingting.fm
+liveout.xntv.tv
+218.84.12.186
+live.zohi.tv
