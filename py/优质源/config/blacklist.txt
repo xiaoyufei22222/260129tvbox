@@ -36,3 +36,4 @@ stream.hrbtv.net
 bztv.tvbus.cc
 zjtv-wshls.homecdn.com
 207.56.13.146
+112.30.73.119
