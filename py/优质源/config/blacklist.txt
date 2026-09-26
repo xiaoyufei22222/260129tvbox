@@ -32,3 +32,7 @@ cm-wshls.homecdn.com
 218.13.170.98
 1.197.250.140
 111.59.139.82
+stream.hrbtv.net
+bztv.tvbus.cc
+zjtv-wshls.homecdn.com
+207.56.13.146
