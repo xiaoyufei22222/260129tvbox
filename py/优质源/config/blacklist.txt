@@ -41,3 +41,5 @@ d1t.alwaysdata.net
 play.scrstv.com.cn
 stream.sun0769.com
 l2fpdktp.live.sxmty.com
+bp-resource-dfl.bestv.cn
+live.qthnews.org.cn
