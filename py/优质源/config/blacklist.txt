@@ -37,3 +37,7 @@ bztv.tvbus.cc
 zjtv-wshls.homecdn.com
 207.56.13.146
 112.30.73.119
+d1t.alwaysdata.net
+play.scrstv.com.cn
+stream.sun0769.com
+l2fpdktp.live.sxmty.com
