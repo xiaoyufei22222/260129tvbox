@@ -38,3 +38,5 @@ bp-resource-dfl.bestv.cn
 222.179.42.129
 stream3.jlntv.cn
 hzcm-live.media.hugd.com
+hlsal-ldvt.qing.mgtv.com
+stream.sun0769.com
