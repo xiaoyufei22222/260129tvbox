@@ -33,3 +33,4 @@ tpc.x3322.net
 live.wjyanghu.com
 ali-vl.cztv.com
 m3u8channel.ganzitv.com
+tvcdn.stream3.hndt.com
