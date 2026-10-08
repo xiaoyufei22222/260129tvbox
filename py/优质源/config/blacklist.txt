@@ -34,3 +34,5 @@ live.wjyanghu.com
 ali-vl.cztv.com
 m3u8channel.ganzitv.com
 tvcdn.stream3.hndt.com
+epg.pw
+bp-resource-dfl.bestv.cn
