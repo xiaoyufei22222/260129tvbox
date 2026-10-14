@@ -25,3 +25,4 @@ ali-vl.cztv.com
 bp-resource-dfl.bestv.cn
 play.scrstv.com.cn
 222.179.42.129
+222.169.85.8
