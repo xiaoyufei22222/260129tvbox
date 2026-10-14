@@ -26,3 +26,7 @@ bp-resource-dfl.bestv.cn
 play.scrstv.com.cn
 222.179.42.129
 222.169.85.8
+hwapi.yntv.net
+ali-xwl.cztv.com
+m3u8.channel.dzsm.com
+lbyzztfe.live.sxmty.com
