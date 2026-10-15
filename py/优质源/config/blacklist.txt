@@ -32,3 +32,7 @@ m3u8.channel.dzsm.com
 lbyzztfe.live.sxmty.com
 101.66.195.192
 101.66.195.137
+182.150.115.21
+221.226.51.220
+live.wjyanghu.com
+stream.jmtv.com.cn
