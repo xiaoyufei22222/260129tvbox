@@ -38,3 +38,6 @@ live.wjyanghu.com
 stream.jmtv.com.cn
 m3u8channel.ganzitv.com
 epg.pw
+125.125.236.31
+ali-m-l.cztv.com
+113.25.252.226
