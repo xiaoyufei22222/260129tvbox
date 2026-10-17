@@ -41,3 +41,6 @@ epg.pw
 125.125.236.31
 ali-m-l.cztv.com
 113.25.252.226
+112.27.5.218
+gmxw.7766.org
+hzcm-live.media.hugd.com
