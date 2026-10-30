@@ -57,3 +57,4 @@ gcalic.v.myalicdn.com
 cm-wshls.homecdn.com
 m3u8.channel.wsrtv.com.cn
 tntgjhjb.live.sxmty.com
+m3u8channel.ganzitv.com
