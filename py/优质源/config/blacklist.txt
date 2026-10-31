@@ -22,3 +22,14 @@ m3u8.channel.wsrtv.com.cn
 m3u8.channel.dzsm.com
 124.88.144.73
 iptv.4666888.xyz
+l.cztvcloud.com
+liveout.xntv.tv
+60.222.246.220
+zb-live.ynurl.com
+live.ahsz.tv
+m3u8channel-yj.yunxya.com
+qmmqvzoz.live.sxmty.com
+111.59.139.82
+hzcm-live.media.hugd.com
+live.wjyanghu.com
+zjtv-wshls.homecdn.com
