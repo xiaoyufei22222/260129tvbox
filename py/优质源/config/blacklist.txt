@@ -34,3 +34,6 @@ hzcm-live.media.hugd.com
 live.wjyanghu.com
 zjtv-wshls.homecdn.com
 m3u8channel.ganzitv.com
+ali-vl.cztv.com
+play.scrstv.com.cn
+test1.live.sdetv.com.cn
