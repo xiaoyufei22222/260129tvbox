@@ -38,3 +38,5 @@ ali-vl.cztv.com
 play.scrstv.com.cn
 test1.live.sdetv.com.cn
 bp-resource-dfl.bestv.cn
+182.150.115.21
+cm-wshls.homecdn.com
