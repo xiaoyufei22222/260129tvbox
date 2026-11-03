@@ -40,3 +40,8 @@ test1.live.sdetv.com.cn
 bp-resource-dfl.bestv.cn
 182.150.115.21
 cm-wshls.homecdn.com
+live.jinchuanrmt.com
+118.122.144.115
+live1.gatv.com.cn
+113.25.252.226
+1yp7hc5p.live.sxmty.com
