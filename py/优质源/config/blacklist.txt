@@ -31,3 +31,7 @@ channel.wcrmt.cn
 live.wjyanghu.com
 live.shaoxing.com.cn
 123.146.162.24
+l.cztvcloud.com
+123.53.42.41
+play.scrstv.com.cn
+42.94.209.203
