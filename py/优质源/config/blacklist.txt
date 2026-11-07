@@ -35,3 +35,7 @@ l.cztvcloud.com
 123.53.42.41
 play.scrstv.com.cn
 42.94.209.203
+125.43.249.76
+119.39.9.8
+218.13.170.98
+ali-vl.cztv.com
