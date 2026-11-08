@@ -39,3 +39,4 @@ play.scrstv.com.cn
 119.39.9.8
 218.13.170.98
 ali-vl.cztv.com
+hzcm-live.media.hugd.com
