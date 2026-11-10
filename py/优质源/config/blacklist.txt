@@ -47,3 +47,6 @@ l2fpdktp.live.sxmty.com
 tpc.x3322.net
 112.123.243.37
 222.128.55.152
+cm-wshls.homecdn.com
+112.27.5.218
+120.238.84.45
