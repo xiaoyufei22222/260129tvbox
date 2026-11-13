@@ -28,3 +28,4 @@ lbyzztfe.live.sxmty.com
 lxfile.lxxcb.cn
 45.192.97.170
 183.129.255.66
+bp-resource-dfl.bestv.cn
