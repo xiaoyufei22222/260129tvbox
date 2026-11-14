@@ -31,3 +31,5 @@ lxfile.lxxcb.cn
 bp-resource-dfl.bestv.cn
 223.78.65.165
 l.cztvcloud.com
+112.85.93.3
+107.150.60.122
