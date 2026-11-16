@@ -61,3 +61,6 @@ hzcm-live.media.hugd.com
 xihewan.cn
 epg.pw
 223.166.245.157
+182.115.48.79
+35.79.185.129
+113.90.154.189
