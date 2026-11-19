@@ -27,3 +27,4 @@ tv.drs.ganzitv.com
 play.scrstv.com.cn
 101.66.194.88
 101.66.194.29
+d1t.alwaysdata.net
