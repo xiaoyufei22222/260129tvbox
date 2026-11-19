@@ -28,3 +28,6 @@ play.scrstv.com.cn
 101.66.194.88
 101.66.194.29
 d1t.alwaysdata.net
+l.cztvcloud.com
+ali-m-l.cztv.com
+cm-wshls.homecdn.com
