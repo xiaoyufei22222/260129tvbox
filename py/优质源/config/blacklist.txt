@@ -51,3 +51,6 @@ live.metshop.top
 m3u8channel.ganzitv.com
 120.238.84.45
 1yp7hc5p.live.sxmty.com
+218.13.170.98
+113.57.140.161
+fuxin.yunjifei.top
