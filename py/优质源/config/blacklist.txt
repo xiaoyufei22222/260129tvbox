@@ -13,3 +13,14 @@ video.epaper.pybtv.cn
 123.146.162.24
 idclive.hljtv.com
 3gvod.zjgonline.com.cn
+110.72.84.44
+222.169.85.8
+ali-vl.cztv.com
+l.cztvcloud.com
+223.78.65.165
+110.72.84.64
+218.13.139.26
+tv.drs.ganzitv.com
+223.83.177.142
+61.138.99.166
+101.66.198.220
